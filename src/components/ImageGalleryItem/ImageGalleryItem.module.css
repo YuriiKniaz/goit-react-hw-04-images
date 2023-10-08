@@ -1,0 +1,9 @@
+.galleryItem {
+  cursor: zoom-in;
+}
+
+.itemImage {
+  object-fit: cover;
+  width: 360px;
+  height: 240px;
+}
